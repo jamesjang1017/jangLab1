@@ -7,6 +7,7 @@
 Insert your truth table here
 | A | B | C | D | Y |
 |---|---|---|---|---|
+| 0 | 0 | 0 | 0 | x |
 | 0 | 0 | 0 | 1 | 1 |
 | 0 | 0 | 1 | 0 | 0 |
 | 0 | 0 | 1 | 1 | 1 |
@@ -19,6 +20,9 @@ Insert your truth table here
 | 1 | 0 | 1 | 0 | 1 |
 | 1 | 0 | 1 | 1 | 0 |
 | 1 | 1 | 0 | 0 | 1 |
+| 1 | 1 | 0 | 1 | x |
+| 1 | 1 | 1 | 0 | x |
+| 1 | 1 | 1 | 1 | x |
 
 ### Boolean Equation
 
